@@ -67,3 +67,11 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
+
+# IntelliJ IDEA
+.idea/*
+!.idea/codeStyles
+!.idea/runConfigurations
+*.iml
+*.ipr
+*.iws
